@@ -1,0 +1,45 @@
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider/VSCode settings
+.idea/
+.vscode/
+
+# Visual Studio hidden files and folders
+.vs/
+
+# Logs
+*.txt
+
+# Dotnet publish output (optional)
+publish/
+*.publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.sln.ide
